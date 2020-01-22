@@ -1,0 +1,326 @@
+# This file contains tenant specific information
+# "company" namespace is used in case of leakage when translation is missing.
+
+en:
+  company:
+    name: 'Forest for the Trees LLC'
+    main_telephone: "4407320764"
+    fax_number: ""
+    main_email: "info@fftt-llc.com"
+    technical_support_email: "info@fftt-llc.com"
+    website_short: "staging.fftt-llc-secured.com"
+    address: ""
+    notification_email: 'Lorem ipsum dolor.%{optional_env_string} <notification%{optional_env_string}@%{sending_domain}>'
+    post_disclaimer: >-
+      Lorem ipsum dolor sit amet consectetur adipiscing elit sodales imperdiet lectus, nascetur nostra dictumst eros phasellus tempor etiam tellus facilisis potenti dapibus, non dictum ornare mauris ultricies egestas massa convallis mattis. Vestibulum viverra hac lobortis euismod mollis ultrices conubia, morbi at dis leo primis hendrerit in netus, natoque aliquet purus malesuada pellentesque aliquam. Bibendum placerat tincidunt diam et risus fermentum molestie elementum inceptos, parturient pretium orci semper vehicula fusce ad proin sollicitudin rhoncus, feugiat pharetra consequat senectus per habitasse quam mi. Justo fringilla est suspendisse varius duis porttitor maecenas, aptent velit taciti quis platea posuere, aenean nam erat augue volutpat condimentum. Cursus praesent quisque litora sed ridiculus ac, ante cum auctor venenatis curae torquent donec, fames felis cras nunc lacus.
+    site_disclaimer: "Copyright %{current_year} Forest for the Trees LLC"
+    twitter_handle: '@LukeGromen'
+    general_keywords:
+      - 'Forest for the Trees LLC'
+      - 'FFTT LLC'
+      - 'Luke Gromen'
+      - 'IRP'
+      - 'independent research provider'
+      - 'FFTT Tree Rings'
+      - 'financial data'
+      - 'global economy'
+      - 'Mr. X'
+      - 'macroeconomic trends'
+      - 'thematic trends'
+      - 'Analyst Hub'
+      - 'sector trends'
+    google_maps_href:
+    pages:
+      home:
+        seo_description: FFTT, LLC (Forest for the Trees) is an independent research provider (IRP) led by Luke Gromen focusing on global macroeconomic, thematic, and sector trends.
+        # 3 cards
+        cards:
+          - header: 'TAKE ADVANTAGE OF 25+ YEARS OF EXPERIENCE'
+            text: "Luke's analysis is informed by an impressive understanding of history, geopolitics, and macroeconomics, and tempered by a consistently admirable humility in the face of global complexities." -W.S.
+            link_anchor: asset-management
+          - header: 'INVEST WITH CONFIDENCE'
+            text: “[Tree Rings] has made me more confident in my investing and has allowed me to investigate trades and investments I would have normally overlooked” -J.W.
+            link_anchor: corporate-management
+          - header: 'DON'T MISS THE FOREST FOR THE TREES'
+            text: “Thanks so much for your Tree Rings [report]. I've felt like something wasn't right in markets for 3+ years, but without the broad context and being able to see the whole forest for the trees, it's a paralyzing position to be in as an individual investor. Now I know what I'm betting on and more important - why.” -E.K.
+            link_anchor: private-equity
+        analysts_box:
+          header: 'Unparalleled Expertise'
+          description: Every week Luke Gromen combs through hundreds of pages, some of it well-known, some of it obscure. Even if you did know about all these sources, you would have to spend over $1,000 per year just to access publications including Bloomberg and the Wall Street Journal. Week after week, Luke spends 40+ hours reading and generating insights for his Tree Rings reports, released every Friday at 4PM. Because of this diligence and work ethic, in 2019 alone, Luke successfully predicted the US manufacturing slowdown, increasing demand for gold, and trouble at the Fed.
+      about_us:
+        seo_description: Luke Gromen has 25+ years of institutional research experience, combined with 5+ years of owning and publishing research via FFTT, LLC.
+        about_us_html: >-
+          <p><strong>Information overload is real. The onset of the internet has given us access to so much data that it’s seriously overwhelming - what’s real and true? What sources can you trust? Who are the top authorities out there? Most information available online is valuable, some is clearly news that is unreliable, but making sense of it all can be a huge burden. And discerning valuable information takes time, time that you might not have. You’re savvy with your finances and looking for someone you can trust. Someone who can give you the information you need, delivered in a way that makes sense, specifically for the purpose of helping you make smarter investment decisions. That’s where FFTT comes in.</strong></p><p>Our research focuses on aggregating macroeconomic and thematic trends from many different industry verticals in an unconventional manner, with a particular eye towards recognizing investable developing economic bottlenecks for our customers. FFTT focuses on sector analysis because of nearly 20 years of experience that has taught us that sector selection is a key determinant of investment outperformance. FFTT focuses on finding investable developing economic bottlenecks because that same experience has taught us that excess investment returns accrue to sectors positioned to benefit from those bottlenecks.</p>
+        analysts_html: >-
+          <p>The creation and launch of FFTT, LLC represents the culmination of decades of navigating the difficulties and nuances of the global economy. As such, the firm offers uniquely insightful research derived from a wide variety of sources that provide a clearer picture of global macroeconomic, thematic, and sector trends, as well as significant corporate access to top c-suite executives. Luke Gromen has become one of the most respected names in the global research sector, having been in the industry for 20+ years and earning a reputation as a client-focused analyst with an unparalleled ability to make broad connections between increasingly siloed industry news, drawing conclusions that help investors understand the big picture. For support in branding, marketing, compliance, and sales, DD Research has partnered with Analyst Hub, an independent research infrastructure platform company that provides talented sell-side analysts a path to owning their own enterprise.</p>
+          <p><a href="/users/partners">Meet Luke Gromen<i class="fa fa-play"></i></a></p>
+        history_html: >-
+          <p>Founded in 2014, FFTT serves a customer base of institutional and high-net worth individual investors. FFTT aggregates large amounts of publicly available data from a wide variety of sources in a unique manner to identify developing economic bottlenecks and resulting investment opportunities. FFTT serves clients around the world with a focus on the United States and Canada, the UK and Europe, and Asia. Focusing on macro sectors and themes including interest rates, energy prices and geopolitical trends, FFTT combines macroeconomic and thematic research with economic analysis in a way that often uncovers developments that others tend to ignore. Gromen founded FFTT as a response to the increasing compartmentalization of investment research that overlooked broader trends.</p><p><p>FFTT founder and CEO Luke Gromen was a founding partner at Cleveland Research, an institutional equity research firm, and previously served as a senior executive in institutional sales at FTN Midwest Securities and Midwest Research Maxus Group.</p>
+        team:
+          description_html: FFTT, LLC consists of independent research provider Luke Gromen, supported by a nationwide sales and marketing team powered by Analyst Hub. Luke saw an opportunity with Analyst Hub to take his business to the next level and further develop his approach to understanding global macroeconomic, thematic, and sector trends. This partnership gives Luke the opportunity to focus on research that helps his clients position their investments for success.
+          members:
+            - image_filename: 'medium_thumb.jpg'
+              full_name: 'Luke Gromen'
+              position: 'Chief Executive Officer'
+              telephone_number: '2165331622'
+              email: 'luke@fftt-llc.com'
+              description_html: Luke Gromen began his career in the mid-1990s in the Research Department at Midwest Research before moving over to institutional equity sales and becoming a partner. While in sales, Luke was a founding editor of Midwest’s widely-read weekly summary (“Heard in the Midwest”) for the firm’s clients, in which he aggregated and combined proprietary research from Midwest with inputs from other sources.<br><br>In 2006, Luke left FTN Midwest to become a founding partner of Cleveland Research Company. At CRC, Luke continued to work in sales and edit CRC’s flagship weekly research summary piece (“Straight from the Source”) for the firm’s customers.<br><br>In 2014, Luke left Cleveland Research to found FFTT, LLC (“Forest for the Trees”), a macro/thematic research firm catering to institutions and high net worth individuals that aggregates a wide variety of macroeconomic, thematic and sector trends in an unconventional manner to identify investable developing economic bottlenecks for our customers, as we have found that excess investm ent returns tend to accrue to economic bottlenecks over time.<br><br>Luke Gromen is a graduate of the University of Cincinnati and received his MBA from Case Western Reserve University. He earned the CFA designation in 2003.
+ users:
+      partners:
+        seo_description: FFTT subscribers enjoy weekly Tree Rings reports filled with the leading equity research insights from the news that week.
+  layouts:
+    mailer_anon_user:
+      page_title: "%{source} notification"
+      alt_logo_text: "Lorem ipsum dolor sit, amet."
+      disclaimer_html: >-
+        This email was sent from a notification-only email account. Replies to this email will
+        <strong>NOT</strong>
+        be read. To contact us please visit us at %{link}.
+      welcome_message: 'Hello,'
+      disclaimer_text: >-
+        This email was sent from a notification-only email account. Replies to this email will
+        NOT be read. To contact us please visit us at %{name}: %{link}.
+    mailer_default:
+      page_title: "%{source} notification"
+      alt_logo_text: "Lorem ipsum dolor sit, amet."
+      welcome_message: 'Hi %{recipient},'
+      disclaimer_html: >-
+        This email was sent from a notification-only email account. Replies to this email will
+        <strong>NOT</strong>
+        be read. Please log on to %{login_link} to respond. For technical support contact us
+        at %{mail_link}
+      disclaimer_text: >-
+        This email was sent from a notification-only email account. Replies to this email will
+        NOT be read. To respond please log on to %{company_name}: %{link}. For technical
+        support contact us at %{email_address}.
+      unsubscribe_html: "To unsubscribe from these notifications please click %{link}"
+      unsubscribe_text: "To unsubscribe from these notifications please click here: %{link}"
+  calendar_events:
+    index:
+      calendar_tab: 'Calendar'
+      upcoming_events_tab: 'Upcoming Events'
+      previous_events_tab: 'Previous Events'
+    calendar:
+      previous_btn: 'Previous'
+      today_btn: 'Today'
+      next_btn: 'Next'
+      year_btn: 'Year'
+      month_btn: 'Month'
+      week_btn: 'Week'
+      day_btn: 'Day'
+  pages:
+    about_us:
+      sections:
+        about_us: 'About us'
+        analysts: '%{sector_name} Analysts'
+        history: History
+        team: Management team
+    contact_us:
+      seo_description: 'Contact FFTT, LLC today to learn more about the available tiers of Luke Gromen's Tree Rings reports.'
+      email: 'EMAIL'
+      name: 'NAME'
+      subject: 'SUBJECT'
+      message: 'MESSAGE'
+      email_placeholder: 'Enter your corporate email'
+      name_placeholder: 'Enter your full name'
+      subject_placeholder: 'Enter a subject'
+      map: 'View Larger Map'
+      submit: 'SUBMIT'
+    clients:
+      seo_description: 'Lorem ipsum dolor sit amet consectetur adipiscing, elit vitae blandit pharetra integer, mattis dictumst dapibus arcu justo.'
+      asset_managers_header: 'ASSET MANAGERS'
+      corporations_header: 'CORPORATIONS'
+      private_equity_header: 'PRIVATE EQUITY'
+      investment_banks_header: 'INVESTMENT BANKS'
+      public_sector_header: 'PUBLIC SECTOR'
+      multilaterals_header: 'MULTILATERALS'
+      asset_managers_description: 'Lorem ipsum dolor sit amet consectetur adipiscing elit, enim venenatis fermentum ac hendrerit accumsan congue auctor, dui himenaeos fringilla pharetra sapien dignissim. Sagittis et habitasse semper senectus ligula sollicitudin natoque, suscipit nisl non leo habitant eu potenti in, urna cursus lectus vehicula nec purus. Metus rutrum dapibus praesent tincidunt fames pretium cum sem, sociosqu libero scelerisque vestibulum aptent viverra litora.'
+      browse_recent_reports_link: 'BROWSE RECENT REPORTS.'
+      why_we_header: 'Why Exmaple Company'
+      why_we_assets_list_html: '<li>Lorem ipsum dolor sit amet consectetur adipiscing, elit vitae blandit pharetra integer, mattis dictumst dapibus arcu justo.</li>
+      <li>Lorem ipsum dolor sit amet, consectetur adipiscing.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit felis curabitur vulputate, lectus volutpat litora odio laoreet quis justo gravida nascetur.</li>'
+      what_we_deliver_header: 'What we deliver'
+      deliver_assets_list_html: '<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit tristique, magna montes vel.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit, tempus euismod nisi purus cum habitasse elementum maecenas, hendrerit inceptos congue vulputate dictum montes.</li>
+      <li>Lorem ipsum dolor sit amet consectetur, adipiscing elit urna varius libero, etiam facilisis elementum hac.</li>'
+      sign_in_link: 'SIGN UP TO REVIEW OUR SERVICES.'
+      corporations_description: 'Lorem ipsum dolor sit amet consectetur adipiscing elit eget curae aenean proin praesent volutpat, vivamus morbi leo posuere parturient natoque varius hac per cubilia malesuada vitae, dignissim facilisi massa lacus sollicitudin taciti ligula vel feugiat a turpis himenaeos. Erat iaculis dui tempus congue porttitor at commodo ante, fames consequat pulvinar tristique neque sociis curabitur ultricies semper, odio mi pellentesque vulputate eu nisi convallis. Quis faucibus urna porta pretium, rhoncus facilisis.'
+      why_we_corporations_list_html: '<li>We provide easy, direct access to a team of former senior-level policy makers</li>
+      <li>Lorem ipsum dolor sit amet consectetur, adipiscing elit at ridiculus.</li>
+      <li>Lorem ipsum dolor sit amet consectetur, adipiscing elit at ridiculus.</li>'
+      deliver_corporations_list_html: '<li>Lorem ipsum dolor sit amet consectetur, adipiscing elit ultricies fringilla vestibulum vivamus, faucibus nam pulvinar porta.</li>
+      <li>Lorem ipsum dolor sit amet consectetur, adipiscing elit at ridiculus.</li>
+      <li>Lorem ipsum dolor sit amet consectetur, adipiscing elit at ridiculus.</li>'
+      private_equity_description: 'Lorem ipsum dolor sit amet consectetur adipiscing elit leo ornare, congue imperdiet posuere aliquet volutpat tempus libero placerat himenaeos montes, vivamus lectus purus et conubia hac semper cras. Gravida urna accumsan inceptos risus mus tortor nisl donec suscipit, orci vehicula nulla fringilla ligula sapien vel. Viverra vitae porta id dignissim litora quis, sociis elementum augue pulvinar ridiculus sociosqu tincidunt, felis dui bibendum pharetra neque. Curae scelerisque commodo est massa sem curabitur pretium dis ad, magnis nibh tellus enim sed eu quisque non, facilisis eros integer velit mauris primis potenti vulputate.'
+      why_we_private_equity_list_html: '<li>Lorem ipsum dolor sit amet consectetur adipiscing elit, hendrerit rhoncus sollicitudin leo pellentesque tempor, semper aliquam diam porta montes ad.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit nostra, tempor risus blandit mollis platea interdum.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit nostra, tempor risus blandit mollis platea interdum.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit nostra, tempor risus blandit mollis platea interdum.</li>'
+      deliver_private_equity_list_html: '<li> Lorem ipsum dolor sit amet consectetur adipiscing elit nostra, tempor risus blandit mollis platea interdum.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit nostra, tempor risus blandit mollis platea interdum.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit nostra, tempor risus blandit mollis platea interdum.</li>'
+      investment_banks_description: 'Lorem ipsum dolor sit amet consectetur adipiscing elit litora, dapibus cursus mollis vitae venenatis in malesuada, justo taciti class molestie donec porta semper. Orci pharetra vivamus neque habitasse libero tempor iaculis suscipit mus, et posuere morbi hendrerit congue vestibulum viverra enim, phasellus sem netus tempus nascetur pulvinar hac id. Sagittis aenean himenaeos facilisi fermentum interdum sapien lobortis velit eleifend, nulla sodales mattis tristique accumsan quisque placerat nam, curae risus sociosqu potenti at primis dis habitant. Natoque aliquam duis eget torquent cras, dui rutrum pretium pellentesque varius, nisi magna cum leo.'
+      why_we_investment_bank_list_html: '<li>Lorem ipsum dolor sit amet consectetur adipiscing elit, dignissim pharetra placerat ligula himenaeos quis, curae dapibus primis purus donec praesent.</li>
+      <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>'
+      deliver_investment_banks_list_html: '<li>Lorem ipsum dolor sit.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit, congue mollis gravida habitasse ligula risus, eros pretium massa egestas neque lacus.</li>
+      <li>Lorem ipsum dolor sit amet, consectetur adipiscing.</li>
+      <li>Lorem ipsum dolor sit amet, consectetur adipiscing.</li>
+      <li>Lorem ipsum dolor sit amet, consectetur adipiscing.</li>'
+      public_sector_description: 'Lorem ipsum dolor sit amet consectetur adipiscing elit sociis fringilla, tempor etiam nascetur congue senectus feugiat accumsan volutpat, gravida commodo consequat scelerisque leo nec nostra tempus. Purus enim nullam ut morbi ad dui mattis sociosqu eros suscipit, curae eget felis tellus vel proin praesent sollicitudin faucibus, ante dapibus justo facilisi sagittis semper pharetra nam inceptos. Condimentum nisl imperdiet porttitor arcu dictumst tristique per, risus fusce donec pretium quisque cum parturient non, elementum curabitur nibh malesuada cras pellentesque. Iaculis diam integer ac sapien, ridiculus lobortis penatibus.'
+      why_we_public_sector_list_html: '<li>Lorem ipsum dolor sit amet consectetur adipiscing elit, duis consequat sed nec aptent faucibus, nam netus ornare ut venenatis nisl.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit, metus felis ut vestibulum quis.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit, metus felis ut vestibulum quis.</li>'
+      deliver_public_sector_list_html: '<li>Lorem ipsum dolor sit, amet.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit, metus felis ut vestibulum quis.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit, metus felis ut vestibulum quis.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit, metus felis ut vestibulum quis.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit, metus felis ut vestibulum quis.</li>
+      <li>Lorem ipsum dolor sit amet consectetur adipiscing elit, metus felis ut vestibulum quis.</li>'
+    products_and_services:
+      seo_description: 'As a FFTT client, you'll enjoy premier access to insightful analysis, extensive corporate access, and private industry events.'
+      sign_in_link: 'SIGN UP TO ACCESS OUR RESEARCH.'
+      country_insight_nav: 'INSIGHTFUL ANALYSIS'
+      direct_access_nav: 'CORPORATE ACCESS'
+      consulting_projects_nav: 'EXTENSIVE EXPERIENCE'
+      events_nav: 'INDUSTRY EVENTS'
+      country_insight_title: 'INSIGHTFUL ANALYSIS'
+      country_insight_text: 'Industry analysis produces key insights for actionable ideas. FFTT has proven time and time again that Tree Rings reports are accurate and timely, which has generated dozens of evangelists for the company over 5+ years in business. The diligence required to publish weekly Tree Rings reports, released every Friday at 4PM, allow FFTT to predict stock fluctuations with unprecedented accuracy, keeping clients happy.'
+      updates_strong_text: 'Dozens of Hours of Research'
+      updates_text: '- Every week from Tuesday through Thursday, Luke Gromen locks himself in his office to conduct 40+ hours of intensive research on global macroeconimic, thematic, and sector trends. As an investor, information can be both your most loyal ally, and your most cunning enemy. The challenge, of course, is being able to tell the two apart. That's what Luke Gromen's goal is in publishing his Tree Rings reports.'
+      databanks_strong_text: 'No Stone Unturned'
+      databanks_text: '- So much of analysis is soundbite driven. While it’s important to have a narrative, you can’t let a catchy story limit the scope of what you are looking at. FFTT looks at inordinate amounts of material and connects the dots in truly a unique way that often helps our clients better analyze events and constructs a fuller range of potential investment outcomes to supplement customers’ investment processes.'
+      in_briefs_strong_text: 'Access to Leading Industry Sources'
+      in_briefs_text: '- Every week Luke Gromen combs through hundreds of pages, some of it well-known, some of it obscure. Even if you did know about all these sources, you would have to spend over $1,000 per year just to access publications including Hussman Funds, CentralBanking.org, ZeroHedge, Bloomberg, Market Watch, Financial Times, The Economist, Haver, Bureau of Labor Statistics, Fred, IHS, SEC, NBS, Blackrock, USA, ISM, The Guardian, CNBC, Wall Street Journal, and more.'
+      direct_access_title: 'CORPORATE ACCESS'
+      direct_access_text: 'One of the largest factors that makes FFTT research so valuable and insightful is Luke Gromen's extensive access to corporate decision makers and industry vendors.'
+      direct_access_list_html: '<li><strong>Huge Roster</strong> - After 25+ years in the industry, Luke Gromen has built up personal relationships with hundreds of industry contacts that his clients also benefit from.</li>
+      <li><strong>Undeniable Charm</strong> - Everyone can hand out a business card or set up an introductory lunch, but not everyone can maintain relationships with key decision makers in the long term.</li>
+      <li><strong>Global Reach</strong> - FFTT serves clients around the world with a focus on the United States and Canada, the UK and Europe, and Asia. Keeping up with emerging markets and geopolitical trends is made easier by Luke's impressive roster of industry connections.</li>'
+      consulting_projects_title: 'EXTENSIVE EXPERIENCE'
+      consulting_projects_text: 'Luke Gromen launched FFTT in 2014 following 20+ years of equity research experience. After such a long time in the industry, and 5+ years as an independent research provider, Luke has become a respected name in the sellside research category, granting him benefits that other firms might not have.'
+      consulting_projects_list_html: '<li><strong>Public Recognition</strong> - Luke Gromen is a published author of "The Mr. X Interviews, Vol. 1", Twitter influencer with 41K+ followers, and notable podcaster with dozens of videos available on YouTube. Luke's reach and public acclaim are a testament to his work ethic, strategic advice, and general influence on the investment community.</li>
+      <li><strong>Patience + Knowledge</strong> - Interesting articles and attention-grabbing headlines are always coming up, but the key to a good investment strategy is knowing which data to pay attention to, and which to ignore. Luke Gromen can provide that insight based on years of previous experience.</li>
+      <li><strong>Dozens of Happy Customers</strong> - Luke Gromen's extensive experience has been acknowledged both privately and publically. Just read this testimonial from a real paying customer - “What I have learned about geopolitics, the relationships among the US dollar as world reserve currency, gold and oil has intrigued me immensely. I do not need to go to the movies anymore since everything happening in the world the last decade are far more exciting, so all I need to do is wait for the next Tree Rings” - B.M.</li>'
+      events_title: 'INDUSTRY EVENTS'
+      events_text: 'As an FFTT client, you benefit directly from extensive market research, alternative data insights, and corporate access via quarterly virtual events and regular phone calls included in higher subscription tiers. Do you need a high level, independent viewpoint or deep perspective on your investment prospects? Our easy-to-use, proprietary webtool allows you to log into our website with a single password to contact Luke Gromen directly for interactive web-based dialog, conference calls, and private meetings. Luke also occasionally participates in TV interviews, guest appearances, and as a keynote speaker at major industry events.'
+      events_list_html: '<li><strong>Quarterly Virtual Events</strong> - Once a quarter we like to get together with like minded people through hosting a LIVE 2 hour virtual event, featuring a 45 minute presentation with a slide deck, with the remainder of the time being held for Q&A. Events like these allow Luke to share his most recent thoughts and insights on events that are impacting the geopolitical landscape as well as the economic one.</li>
+      <li><strong>Digital Recaps Available On Demand</strong> - Couldn't make it to Luke's latest virtual event? You can watch any of the FFTT Reviews at any time you want. For an investment of only $47, you get the slide deck to download and the replay recording to watch on-demand.</li>
+      <li><strong>Extensive Public Speaking Experience</strong> - Luke Gromen has been featured recently on RealVision, Palisade Radio, SBTV, MacroVoices with Erik Townsend, Financial Survival Network with Kerry Lutz, TD Ameritrade Network, Sputnik, Futures Radio Show, and The Investors Podcast. He has been featured as a keynote speaker at the CFA Cayman Investment Forum, with attendees raving - "“The 2017 Cayman Investment Forum was our best event to date and Luke’s presentation was an integral part of that.” and further, “Of all the speakers the producer of Radio Cayman’s live broadcast took the time to identify Luke’s live interview as particularly outstanding.”"</li>
+      <li><strong>Available for Keynote Speaking Opportunities</strong> - Benefit from Luke Gromen's clear, unique, and contrarian perspective at your next conference, seminar, or event. For more information about booking Luke or to check availability, please email info@fftt-llc.com.</li>'
+      aditional_events_text: 'View the FFTT calendar for more information about the events we have coming up.'
+    home:
+      events:
+        header: Upcoming events
+        time_label: 'Time:'
+        show_more_link_text: View all events...
+      sector_insights:
+        header: "%{sector_name} Insights"
+        show_more_link_text: View more insights...
+    country_insights:
+      seo_description: 'Access Luke Gromen and FFTT's proprietary insights and research online via our exclusive webtool.'
+  navbar:
+    links:
+      home: 'HOME'
+      about_us: 'ABOUT US'
+      partners: 'COVERAGE'
+      clients: ''
+      products_and_services: 'PRODUCTS & SERVICES'
+      calendar: 'CALENDAR'
+      contact_us: 'CONTACT US'
+      help: 'HELP'
+  footer:
+    contact_us: 'CONTACT US'
+    request_a_trial: 'REQUEST A TRIAL'
+    browse_coverage: 'BROWSE COVERAGE'
+    sign_up_text: 'Sign up for access to our recent research and analysis:'
+    researches_text: 'Click here to read some of our recent research and analysis:'
+    trial_btn: 'REGISTER'
+    browse_btn: 'BROWSE'
+  users:
+    confirmations:
+      new:
+        main_header: 'Resend confirmation instructions'
+        form_submit: 'Resend confirmation instructions'
+    passwords:
+      new:
+        main_header: 'Forgot your password?'
+        form_submit: 'Send me password reset instructions'
+        form_cancel: 'Cancel'
+      edit:
+        main_header: 'Reset your password'
+        new_password_label: 'New password'
+        new_password_confirmation_label: 'Confirm new password'
+        form_submit: 'Change my password'
+    registrations:
+      new:
+        main_header: 'Register'
+        form_submit: 'Register'
+        form_disabled_with: 'Please wait...'
+      edit:
+        main_header: 'Your profile'
+        unsubscribe_header: 'Email notifications:'
+        password_header: 'Password:'
+        password_header_hint: "Leave blank if you don't want to change it"
+        new_password_label: 'New password'
+        new_password_confirmation_label: 'Confirm new password'
+        form_submit: 'Update'
+        form_cancel: 'Cancel'
+        from_weekly_digest_hint: 'This email is sent every Friday and contains a summary of all reports and in briefs published that week.'
+        links:
+          two_factor:
+            deactivation: 'Deactivate Two Factor'
+            deactivation_confirmation: 'Are you sure you want to deactivate two factor?'
+            activation: 'Setup Two Factor'
+    sessions:
+      new:
+        main_header: 'Login for timely, incisive publications by from Luke Gromen and FFTT.'
+        main_header_subtext: 'Read about the latest developments, ask a question, or schedule a meeting, all with a single sign-on.'
+        form_header: 'Login'
+        form_submit: 'Sign in'
+      new_two_factor:
+        main_header: 'Two Factor Login'
+        form_header: 'Login'
+        form_submit: 'Sign in'
+    two_factors:
+      new:
+        main_header: 'Activate Two Factor Authentication'
+        hint_paragraph: 'Open the Two Factor app on your phone and point your camera at the image below. Then verify that the pairing was successful by entering the code generated below.'
+        form_submit: 'Activate'
+        form_cancel: 'Cancel'
+      show:
+        main_header: 'Two Factor Authentication'
+        status_header_html: 'Current status: %{status_html}'
+      new_action:
+        action_link: 'Activate 2-Factor Authentication'
+      delete_form:
+        warning_paragraph: 'By deactivating two factor authentication you will not be able to access the site without reactivating it.'
+        cta_paragraph: 'Enter your password to deactivate two factor authentication.'
+  links:
+    forgot_password: 'Forgot your password?'
+  sectors:
+    home:
+      seo_description: 'FFTT research focuses on analyzing global macroeconomic, thematic, and sector trends for our institutional investor clients.'
+  helpers:
+    label:
+      user:
+        email: 'Email'
+        first_name: 'First name'
+        last_name: 'Last name'
+        telephone_number: 'Telephone number'
+        sign_up_company_name: 'Company name'
+        password: 'Password'
+        password_confirmation: 'Confirm password'
+        otp_attempt: '2FA code'
+        remember_me: 'Remember me'
+        pseudonym: 'Pseudonym'
+        time_zone: 'Time zone'
+      "user[unsubscribe_attributes]":
+        from_weekly_digest: 'Receive Weekly Digest?'
+        from_reports_presentations_in_briefs: 'New reports, presentations and in briefs?'
+        from_databanks: 'New databanks?'
+        from_calendar_events: 'New events?'
+    placeholder:
+      optional: '(optional)'
+    profile_picture_hint: 'Click to upload a new profile picture'
