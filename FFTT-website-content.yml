@@ -35,22 +35,22 @@ en:
         seo_description: FFTT, LLC (Forest for the Trees) is an independent research provider (IRP) led by Luke Gromen focusing on global macroeconomic, thematic, and sector trends.
         # 3 cards
         cards:
-          - header: 'TAKE ADVANTAGE OF 25+ YEARS OF EXPERIENCE'
-            text: "Luke's analysis is informed by an impressive understanding of history, geopolitics, and macroeconomics, and tempered by a consistently admirable humility in the face of global complexities." -W.S.
+          - header: 'Unique Perspectives'
+            text: “The task is not so much to see what no one has yet seen, but to think what no one has yet thought about that which everybody sees.” -Arthur Schopenhauer.  FFTT’s research routinely “thinks what no one has yet thought about that which everybody sees” – this new perspective adds significant value to our clients’ investment process and outcomes.
             link_anchor: asset-management
-          - header: 'INVEST WITH CONFIDENCE'
-            text: “[Tree Rings] has made me more confident in my investing and has allowed me to investigate trades and investments I would have normally overlooked” -J.W.
+          - header: 'In Depth Analysis'
+            text: FFTT marries its unique thought process with detailed analysis of the topics its writing on, not just identifying new ways to think about opportunities and risks, but also providing an investable themes backed by rigorous analysis and supporting charts.
             link_anchor: corporate-management
-          - header: 'DON'T MISS THE FOREST FOR THE TREES'
-            text: “Thanks so much for your Tree Rings [report]. I've felt like something wasn't right in markets for 3+ years, but without the broad context and being able to see the whole forest for the trees, it's a paralyzing position to be in as an individual investor. Now I know what I'm betting on and more important - why.” -E.K.
+          - header: 'Critical Thinking with Integrity'
+            text: Having the physical ability to “think what no one has yet thought about that which everybody sees” is of little use to clients unless one has the integrity and independence to share those thoughts with clients.  As an independent research firm wholly-owned by Luke Gromen, we have the ability to communicate to our clients in great detail “what no one has yet thought about that which everybody sees.”
             link_anchor: private-equity
         analysts_box:
           header: 'Unparalleled Expertise'
-          description: Every week Luke Gromen combs through hundreds of pages, some of it well-known, some of it obscure. Even if you did know about all these sources, you would have to spend over $1,000 per year just to access publications including Bloomberg and the Wall Street Journal. Week after week, Luke spends 40+ hours reading and generating insights for his Tree Rings reports, released every Friday at 4PM. Because of this diligence and work ethic, in 2019 alone, Luke successfully predicted the US manufacturing slowdown, increasing demand for gold, and trouble at the Fed.
+          description: As data increasingly becomes commoditized, free thinking becomes priceless.<br><br>FFTT, LLC launched in 2014 with one goal in mind – to marry our unique dot-connecting abilities with our in-depth analytical work and our relevant historical perspectives to create differentiated, money-making insights that help our clients’ investment process and investment outcomes.
       about_us:
         seo_description: Luke Gromen has 25+ years of institutional research experience, combined with 5+ years of owning and publishing research via FFTT, LLC.
         about_us_html: >-
-          <p><strong>Information overload is real. The onset of the internet has given us access to so much data that it’s seriously overwhelming - what’s real and true? What sources can you trust? Who are the top authorities out there? Most information available online is valuable, some is clearly news that is unreliable, but making sense of it all can be a huge burden. And discerning valuable information takes time, time that you might not have. You’re savvy with your finances and looking for someone you can trust. Someone who can give you the information you need, delivered in a way that makes sense, specifically for the purpose of helping you make smarter investment decisions. That’s where FFTT comes in.</strong></p><p>Our research focuses on aggregating macroeconomic and thematic trends from many different industry verticals in an unconventional manner, with a particular eye towards recognizing investable developing economic bottlenecks for our customers. FFTT focuses on sector analysis because of nearly 20 years of experience that has taught us that sector selection is a key determinant of investment outperformance. FFTT focuses on finding investable developing economic bottlenecks because that same experience has taught us that excess investment returns accrue to sectors positioned to benefit from those bottlenecks.</p>
+          <p><strong>FFTT, LLC consists of independent research provider Luke Gromen, supported by a nationwide sales and marketing team powered by Analyst Hub.<br><br>Luke Gromen has become one of the most respected names in the global research sector. Having been in the industry for 20+ years and earning a reputation as a client-focused analyst with an unparalleled ability to make broad connections between increasingly siloed industry news and drawing conclusions that help investors understand the bigger picture.  Luke offers unique and  insightful research derived from a wide variety of sources that provide a clearer picture of global macroeconomic, thematic, and sector trends. </strong></p><p>Luke founded FFTT, LLC in early 2014 to address and leverage the opportunity he saw created by applying what clients and former colleagues consistently described as a “unique ability to connect the dots” during a time when he saw an increasing “silo-ing” of perspectives occurring on Wall Street and in corporate America.  FFTT caters to institutions and sophisticated individuals by aggregating a wide variety of macroeconomic, thematic and sector trends in an unconventional manner to identify investable developing economic bottlenecks for his clients.<br><br>Prior to founding FFTT, Luke was a founding partner of Cleveland Research Company, where he worked from 2006-14.  At CRC, Luke worked in sales and edited CRC’s flagship weekly thematic research summary piece (“Straight from the Source”) for the firm’s clients.  Prior to that, Luke was a partner at Midwest Research, where he worked in equity research and sales from 1996-2006.  While in sales, Luke was a founding editor of Midwest’s widely-read weekly thematic summary (“Heard in the Midwest”) for the firm’s clients, in which he aggregated and combined proprietary research from Midwest with inputs from other sources.<br><br>Luke Gromen holds a BBA in Finance and Accounting from the University of Cincinnati and received his MBA from Case Western Reserve University.  He earned the CFA designation in 2003.</p>
         analysts_html: >-
           <p>The creation and launch of FFTT, LLC represents the culmination of decades of navigating the difficulties and nuances of the global economy. As such, the firm offers uniquely insightful research derived from a wide variety of sources that provide a clearer picture of global macroeconomic, thematic, and sector trends, as well as significant corporate access to top c-suite executives. Luke Gromen has become one of the most respected names in the global research sector, having been in the industry for 20+ years and earning a reputation as a client-focused analyst with an unparalleled ability to make broad connections between increasingly siloed industry news, drawing conclusions that help investors understand the big picture. For support in branding, marketing, compliance, and sales, DD Research has partnered with Analyst Hub, an independent research infrastructure platform company that provides talented sell-side analysts a path to owning their own enterprise.</p>
           <p><a href="/users/partners">Meet Luke Gromen<i class="fa fa-play"></i></a></p>
@@ -62,8 +62,8 @@ en:
             - image_filename: 'medium_thumb.jpg'
               full_name: 'Luke Gromen'
               position: 'Chief Executive Officer'
-              telephone_number: '2165331622'
-              email: 'luke@fftt-llc.com'
+              telephone_number: ''
+              email: 'info@fftt-llc.com'
               description_html: Luke Gromen began his career in the mid-1990s in the Research Department at Midwest Research before moving over to institutional equity sales and becoming a partner. While in sales, Luke was a founding editor of Midwest’s widely-read weekly summary (“Heard in the Midwest”) for the firm’s clients, in which he aggregated and combined proprietary research from Midwest with inputs from other sources.<br><br>In 2006, Luke left FTN Midwest to become a founding partner of Cleveland Research Company. At CRC, Luke continued to work in sales and edit CRC’s flagship weekly research summary piece (“Straight from the Source”) for the firm’s customers.<br><br>In 2014, Luke left Cleveland Research to found FFTT, LLC (“Forest for the Trees”), a macro/thematic research firm catering to institutions and high net worth individuals that aggregates a wide variety of macroeconomic, thematic and sector trends in an unconventional manner to identify investable developing economic bottlenecks for our customers, as we have found that excess investm ent returns tend to accrue to economic bottlenecks over time.<br><br>Luke Gromen is a graduate of the University of Cincinnati and received his MBA from Case Western Reserve University. He earned the CFA designation in 2003.
  users:
       partners:
@@ -181,18 +181,30 @@ en:
     products_and_services:
       seo_description: 'As a FFTT client, you'll enjoy premier access to insightful analysis, extensive corporate access, and private industry events.'
       sign_in_link: 'SIGN UP TO ACCESS OUR RESEARCH.'
-      country_insight_nav: 'INSIGHTFUL ANALYSIS'
+      country_insight_nav: 'SO HOW DO WE MAKE MONEY WITH THIS?'
       direct_access_nav: 'CORPORATE ACCESS'
       consulting_projects_nav: 'EXTENSIVE EXPERIENCE'
       events_nav: 'INDUSTRY EVENTS'
-      country_insight_title: 'INSIGHTFUL ANALYSIS'
-      country_insight_text: 'Industry analysis produces key insights for actionable ideas. FFTT has proven time and time again that Tree Rings reports are accurate and timely, which has generated dozens of evangelists for the company over 5+ years in business. The diligence required to publish weekly Tree Rings reports, released every Friday at 4PM, allow FFTT to predict stock fluctuations with unprecedented accuracy, keeping clients happy.'
-      updates_strong_text: 'Dozens of Hours of Research'
-      updates_text: '- Every week from Tuesday through Thursday, Luke Gromen locks himself in his office to conduct 40+ hours of intensive research on global macroeconimic, thematic, and sector trends. As an investor, information can be both your most loyal ally, and your most cunning enemy. The challenge, of course, is being able to tell the two apart. That's what Luke Gromen's goal is in publishing his Tree Rings reports.'
-      databanks_strong_text: 'No Stone Unturned'
-      databanks_text: '- So much of analysis is soundbite driven. While it’s important to have a narrative, you can’t let a catchy story limit the scope of what you are looking at. FFTT looks at inordinate amounts of material and connects the dots in truly a unique way that often helps our clients better analyze events and constructs a fuller range of potential investment outcomes to supplement customers’ investment processes.'
-      in_briefs_strong_text: 'Access to Leading Industry Sources'
-      in_briefs_text: '- Every week Luke Gromen combs through hundreds of pages, some of it well-known, some of it obscure. Even if you did know about all these sources, you would have to spend over $1,000 per year just to access publications including Hussman Funds, CentralBanking.org, ZeroHedge, Bloomberg, Market Watch, Financial Times, The Economist, Haver, Bureau of Labor Statistics, Fred, IHS, SEC, NBS, Blackrock, USA, ISM, The Guardian, CNBC, Wall Street Journal, and more.'
+      country_insight_title: 'SO HOW DO WE MAKE MONEY WITH THIS?'
+      country_insight_text: 'Every edition of FFTT ends by asking “So how do we make money with this?”, because in the end, our singular focus is on helping our clients outperform.<br><br>In a world where everybody says they are contrarian, and where many clients say just one big call a year from a research provider is massively-value added, our track record of finding investment opportunities where consensus and reality are at odds with each other speaks for itself.<br><br><strong>A partial compilation of significantly contrarian calls by FFTT that helped our clients:</strong>'
+      updates_strong_text: 'Consensus in Autumn 2014: “US shale revolution has OPEC in trouble”'
+      updates_text: 'FFTT view: US shale sector reminds us of the US Telecom sector in 2001 – based on expensive oil & cheap debt; if either factor changes, US shale may be in trouble.'
+      databanks_strong_text: 'Consensus in 4Q14: “US consumer will benefit significantly from lower gasoline prices”'
+      databanks_text: 'FFTT view: US consumer gas savings will be more than offset by sharp increase in US healthcare costs due to rollout of Obamacare.'
+      in_briefs_strong_text: 'Consensus in 1Q15: “The Fed will raise rates in June and if not, in September”'
+      in_briefs_text: 'FFTT view:  The Fed hasn’t raised rates with the US ISM < 50 since 1981 and likely will not do so in either June or September, due to weak US energy & consumer/retail.
+      <li><strong>Consensus in 3Q15: “Oil prices should continue to recover, possibly aided by an OPEC cut”</strong>FFTT view:  We’re hearing ‘something changed in August’ in oil, OPEC is unlikely to cut production as Kazakhstan joins Russia in the floating of their currency (oil negative).</li>
+      <li><strong>Consensus in 4Q15: “US economy should accelerate in 2016E, support 4 Fed rate hikes”</strong>FFTT view:  Take the ‘under’ on both US GDP growth and the number of Fed rate hikes in 2016E due to weak industrial (due to energy) & weak consumer (due to Obamacare.)</li>
+      <li><strong>Consensus in 1Q16: “US economy in severe trouble on oil price declines, USD is going higher”</strong>FFTT view:  Energy and commodity prices are trading near 100-year lows relative to broad market indices, even as global policymakers are hinting that USD needs to be devalued – be overweight energy/industrial shares & other ‘weak USD assets’.</li>
+      <li><strong>Consensus in 1Q17: “The USD will likely continue to strengthen driven by a strong US economy and positive rate differentials.”</strong>FFTT view:  The combination of widening US Federal deficits & a weaker-than-understood US economy suggest that unless the USD is significantly weakened, the US economy and risk assets could come under pressure.</li>
+      <li><strong>Consensus in March 2018: “The USD will likely weaken.”</strong>FFTT view:  The selloff in UST’s during the February equity market selloff spooked the Fed; we believe Fed has become more hawkishness to effectively stabilize/defend the USD, keep private sector buying UST’s; our NT USD view shifted from bearish to bullish on this.</li>
+      <li><strong>Consensus in 1Q17: “The USD will likely continue to strengthen driven by a strong US economy and positive rate differentials.”</strong>FFTT view:  The combination of widening US Federal deficits & a weaker-than-understood US economy suggest that unless the USD is significantly weakened, the US economy and risk assets could come under pressure.</li>
+      <li><strong>Consensus in March 2018: “The USD will likely weaken.”</strong>FFTT view:  The selloff in UST’s during the February equity market selloff spooked the Fed; we believe Fed has become more hawkishness to effectively stabilize/defend the USD, keep private sector buying UST’s; our NT USD view shifted from bearish to bullish on this.</li>
+      <li><strong>Consensus in 3Q18: US risk assets will rise with USD, US rates</strong>FFTT view: 10/18/18 = Negative FX-hedged UST yields for foreign investors means risk off until new USD liquidity is injected/USD is weakened</li>
+      <li><strong>Consensus in January 2019: “Bearish on risk assets”</strong>FFTT view: 1/9/19 – Near term consensus is too bearish on risk assets; intermediate not bearish enough unless new USD liquidity is injected/USD is weakened notably in 2019.</li>
+      <li><strong>Consensus in 2Q19: “Fed will not cut rates in 2019”</strong>FFTT view: 4/30/19 – Fed Funds > IOER means Fed will soon have to inject USD liquidity into a good US economy to mitigate strains caused by the US’ own fiscal situation.  Buy gold, risk assets, & banks.</li>
+      <li><strong>Consensus in 3Q19: “Risk off, $17T in negative yielding debt”</strong>FFTT view: 8/15/19 – “Fed is likely T-minus 2 months from being forced into sharp rate cuts &/or permanent QE by rising US deficits into not enough foreign UST demand with the USD trading at current levels.”</li>
+      <li><strong>Consensus in 4Q19: “Fed actions in repo markets are just temporary”</strong>FFTT view: “Repo rate spike means Fed has now been forced into effectively financing US government deficits via the money markets for the foreseeable future or until the USD falls sharply enough to restore the global foreign private sector UST bid to full strength.  Likely bullish for gold, risk assets, bearish for USD.”</li>'
       direct_access_title: 'CORPORATE ACCESS'
       direct_access_text: 'One of the largest factors that makes FFTT research so valuable and insightful is Luke Gromen's extensive access to corporate decision makers and industry vendors.'
       direct_access_list_html: '<li><strong>Huge Roster</strong> - After 25+ years in the industry, Luke Gromen has built up personal relationships with hundreds of industry contacts that his clients also benefit from.</li>
@@ -224,9 +236,9 @@ en:
     links:
       home: 'HOME'
       about_us: 'ABOUT US'
-      partners: 'COVERAGE'
+      partners: 'COVERAGE AND THEMES'
       clients: ''
-      products_and_services: 'PRODUCTS & SERVICES'
+      products_and_services: 'HOW FFTT HELPS YOU MAKE MONEY'
       calendar: 'CALENDAR'
       contact_us: 'CONTACT US'
       help: 'HELP'
